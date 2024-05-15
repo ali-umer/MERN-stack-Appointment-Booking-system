@@ -1,0 +1,15 @@
+.logoutButton {
+    width: 8vw;
+    padding: 15px;
+    border: none;
+    border-radius: 5px;
+    background-color: #006;
+    color: white !important; 
+    font-size: 16px;
+    text-align: center;
+}
+.logoutButton:hover {
+    background-color: #006;
+    animation: glow 1s ease-in-out infinite alternate;
+}
+  

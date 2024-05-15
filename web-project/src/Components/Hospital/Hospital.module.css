@@ -1,0 +1,97 @@
+.toppH {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 20vh;
+
+    z-index: 100;
+}
+
+.Hospitalcontainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    margin-top: 50px; 
+}
+
+.hospitalCards {
+    display: flex;
+    flex-direction: column; 
+    align-items: center;
+    margin-top: 20px;
+}
+
+.hospitalCard {
+    max-width: 750px;
+    width: 100%;
+    margin: 20px 0; 
+    padding: 20px;
+    border-radius: 12px;
+    background-image: url('../Assets/header-bg.jpg');
+    color: #fff;
+    box-shadow: 4px 8px 30px black;
+    position: relative;
+}
+
+
+.hospitalIcon {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    width: 80px;
+    height: 80px;
+    z-index: 1;
+}
+
+.details {
+    margin-top: 100px; 
+}
+
+.details > div {
+    margin-bottom: 10px;
+}
+
+.details h3 {
+    margin: 0;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.additionalDetails {
+    margin-top: auto;
+}
+
+.viewDescription,
+.callNow {
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-right: 10px;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.viewDescription {
+    background-color: #ffc107;
+}
+
+.callNow {
+    background-color: #ff0000;
+}
+
+.viewDescription:hover {
+    background-color: #ffcd38;
+}
+
+.callNow:hover {
+    background-color: #990000;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 20px;
+} 
