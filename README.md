@@ -30,7 +30,7 @@ OlaDoc is a modern service website built on the MERN Stack, streamlining patient
 ### _________________________________________________________________________________________________________________________
 
 ## LIST OF HOSPITALS (WITH FILTERS OF LOCATION)
-![image](https://github.com/Aliumer786/WEB-project/assets/129260556/d4e04602-bd71-4725-86df-b7410e2ebbcb)
+<img width="1440" alt="hospitalScreenshot 2024-05-16 at 4 20 56ÔÇ»PM" src="https://github.com/Aliumer786/MERN-stack-Appointment-Booking-system/assets/129260556/4fcedd42-c1ea-4da5-8d13-88af1af1562c">
 
 ### _________________________________________________________________________________________________________________________
 
