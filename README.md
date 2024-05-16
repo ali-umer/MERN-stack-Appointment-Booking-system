@@ -13,6 +13,9 @@ OlaDoc is a modern service website built on the MERN Stack, streamlining patient
 ## PATIENTS CURRENT APPOINTMENTS
 <img width="1440" alt="Screenshot 2024-05-16 at 4 19 31ÔÇ»PM" src="https://github.com/Aliumer786/WEB-project/assets/129260556/10cd8db0-b30c-41fe-b2f4-4b0e718bae65">
 
+## UPDATING APPOINTMENT
+![WhatsApp Image 2024-05-16 at 8 58 56 PM](https://github.com/Aliumer786/WEB-project/assets/129260556/bd51bb1b-d634-49d7-9e93-cef9ab773b2d)
+
 ## LIST OF DOCTORS (WITH FILTERS OF DOCTOR TYPE)  
 <img width="1440" alt="Screenshot 2024-05-16 at 4 20 49ÔÇ»PM" src="https://github.com/Aliumer786/WEB-project/assets/129260556/8226e787-4088-4945-bf60-1eea915ed605">
 
@@ -25,4 +28,10 @@ OlaDoc is a modern service website built on the MERN Stack, streamlining patient
 
 ## CONTACT US
 <img width="1440" alt="Screenshot 2024-05-16 at 4 21 06ÔÇ»PM" src="https://github.com/Aliumer786/WEB-project/assets/129260556/e7564816-410a-45c8-8cf1-dfe38306aed4">
+
+
+
+## INCASE OF WRONG URL:
+  ![WhatsApp Image 2024-05-16 at 8 59 25 PM](https://github.com/Aliumer786/WEB-project/assets/129260556/fec52b37-4f0b-4f20-a049-089e226888f1)
+
 
