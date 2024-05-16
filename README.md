@@ -1,7 +1,7 @@
 # APPOINTMENT BOOKING SYSTEM
 OlaDoc is a modern service website built on the MERN Stack, streamlining patient-doctor interactions. Users can easily sign up/login, manage appointments, and find healthcare providers based on location and specialty. With a sleek UI, the platform offers a hassle-free booking experience. Powered by MERN, it enables smooth data management and API communication, ensuring efficiency for users and providers.
 
-### ___________________________________________________________________________________________________________________
+### ______________________________________________________________________________________________________________________
 
 # ** USER INTERFACE **
 
