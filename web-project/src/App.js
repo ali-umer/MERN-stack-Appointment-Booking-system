@@ -7,6 +7,7 @@ import Home from './Components/HomeScreen/Home';
 import Doctor from './Components/Doctor/Doctor'
 import Appointment from './Components/Appointment/Appointment'
 import Hospital from './Components/Hospital/Hospital'
+import Error from './Components/Error/Error'
 function App() {
   return (
     <div>
@@ -19,7 +20,7 @@ function App() {
           <Route path='/Doctor' component={Doctor}/>
           <Route path='/Appointment' component={Appointment}/>
           <Route path='/Hospital' component={Hospital}/>
-          
+          <Route path='*' exact component={Error}/>
 
         </Switch>
       </Router>
