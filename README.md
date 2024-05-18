@@ -24,7 +24,7 @@ OlaDoc is a modern service website built on the MERN Stack, streamlining patient
 ## LIST OF DOCTORS (WITH FILTERS OF DOCTOR TYPE)  
 <img width="1440" alt="Screenshot 2024-05-16 at 4 20 49ÔÇ»PM" src="https://github.com/Aliumer786/WEB-project/assets/129260556/8226e787-4088-4945-bf60-1eea915ed605">
 
-## AFTER CLICKING BOOK APPOINTMENT IN HOSPITAL CARD
+## AFTER CLICKING BOOK APPOINTMENT IN DOCTOR'S CARD
 <img width="1440" alt="Screenshot 2024-05-16 at 4 22 23ÔÇ»PM" src="https://github.com/Aliumer786/WEB-project/assets/129260556/f756ceb7-956b-4bd5-81b8-fcd338d0f669">
 
 ### ____________________________________________________________________________________________________
